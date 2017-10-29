@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	padding:0;
+	height: 800px;
+}
+.container_form form{
+	margin-top: 10px;
+	text-align: center;
+	
+}
+.todo{
+	text-align: center;
+}
+.container_form{
+	border: 3px solid black;
+	width: 500px;
+	height: 300px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+
+
+
+footer{
+	height: 100px;
+	background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -34,7 +34,7 @@ require 'partials/database_pdo.php';//PDO
 
 <div class="todo">
 <h3>Completed todos</h3>
-	<?php 
+	<?php//här är min foreach loop 
 
 	foreach($completed as $complete){
 		
@@ -44,6 +44,7 @@ require 'partials/database_pdo.php';//PDO
 	
 ?>
 	</div>
+	
 </div>
 
 
